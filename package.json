@@ -1,0 +1,15 @@
+{
+    "name": "shyam-international",
+    "version": "1.0.0",
+    "description": "Shyam International Trade Full-Stack Application",
+    "main": "server/server.js",
+    "scripts": {
+      "start": "cd server && npm start",
+      "build": "cd client && npm install && npm run build && cd ../server && npm install --only=production",
+      "install-all": "npm run build"
+    },
+    "engines": {
+      "node": "18.x"
+    }
+  }
+  
