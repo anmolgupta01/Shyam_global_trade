@@ -33,20 +33,12 @@ function Footer() {
                 <span className="text-xs text-white font-medium">f</span>
               </a>
               <a 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/anmol-gupta-9a905a228/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-8 h-8 bg-white/20 rounded flex items-center justify-center hover:bg-white/30 transition-colors cursor-pointer"
               >
                 <span className="text-xs text-white font-medium">in</span>
-              </a>
-              <a 
-                href="https://twitter.com" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="w-8 h-8 bg-white/20 rounded flex items-center justify-center hover:bg-white/30 transition-colors cursor-pointer"
-              >
-                <span className="text-xs text-white font-medium">X</span>
               </a>
               <a 
                 href="https://instagram.com" 
